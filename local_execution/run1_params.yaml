@@ -1,0 +1,10 @@
+nviz: 100
+nrestart: 100
+nhealth: 1
+current_dt: 1e-9
+t_final: 0.
+order:  1
+char_len: 0.0002
+integrator: euler
+fuel: H2
+
